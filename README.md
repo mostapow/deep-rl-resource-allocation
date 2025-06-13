@@ -1,1 +1,1 @@
-The code was developed for the article "Resource Allocation Policies for Real-World Business Processes using Deep Reinforcement Learning and Variant-based Simulation in a Single and Multi-Process Environment".
+The code was developed for the article "Improving Business Process Efficiency with Deep Reinforcement Learning and Variant-based Simulation".
